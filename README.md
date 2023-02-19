@@ -23,14 +23,14 @@ Atualmente estou participando de uma imersão em desenvolvimento web na Newtab A
 <div>
     <a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width='40' height='40'/>
-    </a>
+    </a> <p />
     <a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width='40' height='40'/>
-    </a>
+    </a> <p />
     <a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width='40' height='40'/>
-    </a>
+    </a> <p />
     <a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='40' height='40'/>
-    </a>
+    </a> <p />
   </div>
