@@ -1,6 +1,12 @@
 <a href="https://www.linkedin.com/in/igor-sousa-b46590114/">
   <img align="right" alt="Igor's LinkedIn" width="32px" src="https://raw.githubusercontent.com/SalowQ/SalowQ/main/linkedin.svg" />
 </a>
+<a href="mailto: arqurb.igor@gmail.com">
+  <img align="right" alt="Igor's Email" width="32px" src="https://raw.githubusercontent.com/SalowQ/SalowQ/main/mail.png" />
+</a>
+<a href="https://drive.google.com/file/d/1qpZd0LtaroMh5Xkjoyx4OEeEFE1NMdaQ/view?usp=sharing">
+  <img align="right" alt="Igor's CV" width="32px" src="https://raw.githubusercontent.com/SalowQ/SalowQ/main/curriculum-vitae.png" />
+</a>
 
 <img src="https://raw.githubusercontent.com/SalowQ/SalowQ/main/wave.gif" height="30px"> Oi, meu nome é Igor!
 ===============
