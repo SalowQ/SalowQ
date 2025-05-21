@@ -11,9 +11,8 @@
 <img src="https://raw.githubusercontent.com/SalowQ/SalowQ/main/wave.gif" height="30px"> Oi, meu nome é Igor!
 ===============
 
-Sou um desenvolvedor front-end focado em aplicações web, estou entrando nesse universo agora, mas já tive outras experiências: me formei em Arquitetura e Urbanismo em 2022, já supervisionei obras, já trabalhei com projetos arquitetônicos e urbanísticos, tive experiências com planejamento estratégico, gestão de pessoas, modelagem 3D e criação de jogos. Todas essas vivências me ajudaram a crescer como pessoa e profissional, sempre estou disposto a aprender e dar o melhor de mim.
+Atuo na área desde 2023 e sou pós-graduado em engenharia de qualidade de software, estou principalmente na área web/front-end/mobile, mas também tenho familiaridade com back-end(especialmente C# e Node), banco de dados (SQL Server e MySQL) e design (sou formado em arquitetura e urbanismo, então sempre tive proximidade com design e foi uma das principais áreas que estudei ao entrar na área de tecnologia). Também já fiz cursos e workshops de produção de jogos, é uma área que sempre me interessei e foi o que me levou a ingressar no ramo de tecnologia.
 
-Atualmente estou participando de uma imersão em desenvolvimento web na Newtab Academy, onde estou explorando a utilização de HTML, CSS, JavaScript, React e outros em projetos diversos. 
 
 <div>
 <a href="https://github.com/SalowQ">
@@ -22,6 +21,12 @@ Atualmente estou participando de uma imersão em desenvolvimento web na Newtab A
   
 <div>
     <a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width='40' height='40' />
+    </a>
+    <a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='40' height='40'/>
+    </a>
+    <a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width='40' height='40'/>
     </a> 
     <a>
@@ -29,8 +34,18 @@ Atualmente estou participando de uma imersão em desenvolvimento web na Newtab A
     </a> 
     <a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width='40' height='40'/>
+    </a>
+    <a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+    </a>
+    <a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
     </a> 
     <a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='40' height='40'/>
-    </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+    </a> 
+    <a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    </a> 
+    
   </div>
