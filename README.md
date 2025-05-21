@@ -4,7 +4,7 @@
 <a href="mailto: arqurb.igor@gmail.com">
   <img align="right" alt="Igor's Email" width="32px" src="https://raw.githubusercontent.com/SalowQ/SalowQ/main/mail.png" />
 </a>
-<a href="https://drive.google.com/file/d/1qpZd0LtaroMh5Xkjoyx4OEeEFE1NMdaQ/view?usp=sharing">
+<a href="https://drive.google.com/file/d/18bMlZ4kcjAoaQyh2lqulblcXwwypPULI/view?usp=sharing">
   <img align="right" alt="Igor's CV" width="32px" src="https://raw.githubusercontent.com/SalowQ/SalowQ/main/curriculum-vitae.png" />
 </a>
 
