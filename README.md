@@ -19,7 +19,6 @@ Atuo na área desde 2023 e sou pós-graduado em engenharia de qualidade de softw
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalowQ&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div>
   ![Angular](https://img.shields.io/badge/-Angular-C51A4A?style=flat-square&logo=Angular)
   ![React](https://img.shields.io/badge/-React-darkblue?style=flat-square&logo=React)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -36,4 +35,3 @@ Atuo na área desde 2023 e sou pós-graduado em engenharia de qualidade de softw
   ![Git](https://img.shields.io/badge/-Git-c93900?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-</div>
