@@ -20,32 +20,20 @@ Atuo na área desde 2023 e sou pós-graduado em engenharia de qualidade de softw
 </div>
   
 <div>
-    <a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width='40' height='40' />
-    </a>
-    <a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='40' height='40'/>
-    </a>
-    <a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width='40' height='40'/>
-    </a> 
-    <a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width='40' height='40'/>
-    </a> 
-    <a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width='40' height='40'/>
-    </a>
-    <a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width='40' height='40' />
-    </a>
-    <a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width='40' height='40' />
-    </a> 
-    <a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width='40' height='40' />
-    </a> 
-    <a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width='40' height='40' />
-    </a> 
-    
-  </div>
+  ![Angular](https://img.shields.io/badge/-Angular-C51A4A?style=flat-square&logo=Angular)
+  ![React](https://img.shields.io/badge/-React-darkblue?style=flat-square&logo=React)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-311C87?style=flat-square&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-d19d24?style=flat-square&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-311C87?style=flat-square&logo=tailwindcss)
+  ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-darkgreen?style=flat-square&logo=Node.js)
+  ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
+  ![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=sqlserver)
+  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-00599C?style=flat-square&logo=google-cloud)
+  ![Git](https://img.shields.io/badge/-Git-c93900?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+</div>
