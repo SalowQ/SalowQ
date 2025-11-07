@@ -11,12 +11,14 @@
 <img src="https://raw.githubusercontent.com/SalowQ/SalowQ/main/wave.gif" height="30px"> Oi, meu nome é Igor!
 ===============
 
+## 🇺🇸 English
 I’ve been working in the field since 2023 and hold a postgraduate degree in Software Quality Engineering. I currently work as a full stack developer, mainly focused on web, front-end, and mobile development using Angular, React, Vue, TypeScript, Bootstrap, and Tailwind.
 
 I also work with back-end development (especially C# and Node.js) and databases (SQL Server and MySQL). In addition, I have a background in Architecture and Urbanism, which gives me strong skills in design — an area I’ve always been passionate about and deeply studied when transitioning into technology.
 
 I’ve also completed courses and workshops in game development, a field that has always inspired me and was one of the main reasons I decided to pursue a career in tech.
 
+## 🇧🇷 Português
 Atuo na área desde 2023 e sou pós-graduado em Engenharia de Qualidade de Software. Atualmente trabalho como desenvolvedor full stack, com foco principal em desenvolvimento web, front-end e mobile, utilizando tecnologias como Angular, React, Vue, TypeScript, Bootstrap e Tailwind.
 
 Também atuo com back-end (principalmente em C# e Node.js) e bancos de dados (SQL Server e MySQL). Além disso, tenho formação em Arquitetura e Urbanismo, o que me proporcionou uma base sólida em design — uma área pela qual sempre tive grande interesse e que estudei com profundidade ao migrar para a tecnologia.
