@@ -8,7 +8,7 @@
   <img align="right" alt="Igor's CV" width="32px" src="https://raw.githubusercontent.com/SalowQ/SalowQ/main/curriculum-vitae.png" />
 </a>
 
-<img src="https://raw.githubusercontent.com/SalowQ/SalowQ/main/wave.gif" height="30px"> Oi, meu nome é Igor!
+<img src="https://raw.githubusercontent.com/SalowQ/SalowQ/main/wave.gif" height="30px"> Hi, I'm Igor! Oi, meu nome é Igor!
 ===============
 
 ## 🇺🇸 English
